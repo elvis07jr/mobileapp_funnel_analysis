@@ -92,7 +92,7 @@ Each hypothesis is tested and interpreted using SQL + Python.
 
 ## 📘 Notebook
 
-👉 [notebooks/funnel_analysis.ipynb](notebooks/funnel_analysis.ipynb)
+👉 [notebooks/funnel_analysis.ipynb](notebooks/funnel_visualization.ipynb)
 
 ---
 
