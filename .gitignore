@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# DuckDB database files (if you persist one)
+*.duckdb
+*.db
+
+# Data files (optional - keep only if you don’t want them tracked)
+data/*.csv
+data/*.json
+data/*.parquet
+
+# Jupyter runtime
+*.log
+*.out
+
+# Python package distribution
+*.egg
+*.egg-info/
+dist/
+build/
+
+# MyPy and Pyright
+.mypy_cache/
+.pyright/
+
+# Spyder project settings
+.spyderproject
+.spyproject
